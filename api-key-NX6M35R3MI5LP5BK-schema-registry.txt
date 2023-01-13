@@ -1,0 +1,7 @@
+=== Confluent Cloud API key: lsrc-8wgror ===
+
+API key:
+NX6M35R3MI5LP5BK
+
+API secret:
+pk9bS8/PhobO2v1dWugSsRqteSkD85Qv7vSqVtQP0u39/zfmOEHdTArr1pMiqTvN
