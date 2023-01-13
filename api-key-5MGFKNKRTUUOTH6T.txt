@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-qrpyw2 ===
+
+API key:
+5MGFKNKRTUUOTH6T
+
+API secret:
+DFBQBDQGynh4276AgGX95k0qBX0rrVICAC8T4tU6lt7AM9F4ZXe2bvukYFvqZEZ3
+
+Bootstrap server:
+pkc-6ojv2.us-west4.gcp.confluent.cloud:9092
